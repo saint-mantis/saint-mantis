@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A Typical AI Enthusiast who loves Data ❤️</h3>
+<img align = "right" alt="coding-gif" width="400" src="https://github.com/saint-mantis/saint-mantis/blob/main/coding.gif">
+                                             
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-mantis&label=Profile%20views&color=0e75b6&style=flat" alt="saint-mantis" /> </p>
 
