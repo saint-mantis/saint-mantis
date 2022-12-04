@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Stable Diffusion**
 
-- 💬 Ask me about **DL-ML Models,Django,Web Scraping,NLP,Data Visualisation,Tailwind CSS,Electron**
+- 💬 Ask me about **DL-ML Models,Django,NLP,Data Visualisation,Tailwind CSS,Electron**
 
 - 📫 How to reach me **arunbabu77770@gmail.com**
 
