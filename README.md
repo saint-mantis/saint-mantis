@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saintmantiss" target="blank"><img src="https://img.shields.io/twitter/follow/saintmantiss?logo=twitter&style=for-the-badge" alt="saintmantiss" /></a> </p>
 
-- 🌱 I’m currently learning **Stable Diffusion**
+- 🌱 I’m currently learning **Stable Diffusion,GAN Autoencoders**
 
 - 💬 Ask me about **DL-ML Models,Django,NLP,Data Visualisation,Tailwind CSS,Electron**
 
