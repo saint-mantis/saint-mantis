@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/saint-mantis/saint-mantis/blob/main/banner.gif)
+[![MasterHead](https://github.com/saint-mantis/saint-mantis/blob/main/top-banner.gif)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A Typical AI Enthusiast who loves Data ❤️</h3>
 <img align = "right" alt="coding-gif" width="400" src="https://github.com/saint-mantis/saint-mantis/blob/main/coding.gif">
