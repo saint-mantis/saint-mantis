@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DL-ML Models,Django,NLP,Data Visualisation,Tailwind CSS,Electron**
 
-- 📫 How to reach me **arunbabu77770@gmail.com**
+- 📫 How to reach me **arunkbabu.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
